@@ -10,16 +10,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nguymin4/react-videocall.git"
+    "url": "git+https://github.com/vcomm/react-videocall"
   },
   "engines": {
     "node": "8.11.3",
     "yarn": "1.7.0"
   },
-  "author": "Minh Son Nguyen",
+  "author": "Yakov Liskoff",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nguymin4/react-videocall/issues"
+    "url": "https://github.com/vcomm/react-videocall/issues"
   },
-  "homepage": "https://github.com/nguymin4/react-videocall#readme"
+  "homepage": "https://github.com/vcomm/react-videocall#readme"
 }
